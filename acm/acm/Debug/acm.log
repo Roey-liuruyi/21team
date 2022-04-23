@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\Roey\source\repos\acm\acm\test.c(1324,9): warning C4013: “gets”未定义；假设外部返回 int
+  acm.vcxproj -> C:\Users\Roey\source\repos\acm\Debug\acm.exe

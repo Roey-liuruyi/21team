@@ -1,0 +1,24 @@
+﻿  指针辨析.c
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(8,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(8,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(9,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(9,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(10,28): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(10,24): warning C4024: “strlen”: 形参和实参 1 的类型不同
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(10,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(10,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(11,30): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(11,27): warning C4024: “strlen”: 形参和实参 1 的类型不同
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(11,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(12,28): warning C4047: “函数”:“const char *”与“char (*)[7]”的间接级别不同
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(12,24): warning C4024: “strlen”: 形参和实参 1 的类型不同
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(12,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(12,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(13,30): warning C4047: “函数”:“const char *”与“char (*)[7]”的间接级别不同
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(13,28): warning C4024: “strlen”: 形参和实参 1 的类型不同
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(13,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(14,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Roey\source\repos\指针辨析.test\指针辨析.test\指针辨析.c(14,9): message : 请考虑在格式字符串中使用“%zd”
+  指针辨析.test.vcxproj -> C:\Users\Roey\source\repos\指针辨析.test\x64\Debug\指针辨析.test.exe

@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\Roey\source\repos\kaoqian\kaoqian\test.c(276): warning C4716: “trans_10_8”: 必须返回一个值
+  kaoqian.vcxproj -> C:\Users\Roey\source\repos\kaoqian\Debug\kaoqian.exe
