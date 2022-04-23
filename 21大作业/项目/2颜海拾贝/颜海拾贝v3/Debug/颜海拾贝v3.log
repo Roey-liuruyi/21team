@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Roey\Desktop\项目\2颜海拾贝\颜海拾贝v3\main.cpp(53,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\2颜海拾贝\颜海拾贝v3\main.cpp(55,16): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Roey\Desktop\项目\2颜海拾贝\颜海拾贝v3\main.cpp(61,46): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Roey\Desktop\项目\2颜海拾贝\颜海拾贝v3\main.cpp(61,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Roey\Desktop\项目\2颜海拾贝\颜海拾贝v3\main.cpp(108,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\2颜海拾贝\颜海拾贝v3\main.cpp(108,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\2颜海拾贝\颜海拾贝v3\main.cpp(107,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\2颜海拾贝\颜海拾贝v3\main.cpp(117,50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\2颜海拾贝\颜海拾贝v3\main.cpp(117,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\2颜海拾贝\颜海拾贝v3\main.cpp(127,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  颜海拾贝v3.vcxproj -> C:\Users\Roey\Desktop\项目\2颜海拾贝\颜海拾贝v3\Debug\颜海拾贝v3.exe

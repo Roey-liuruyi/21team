@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Roey\Desktop\项目\8.十步万度\十步万度\main.cpp(68,25): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Roey\Desktop\项目\8.十步万度\十步万度\main.cpp(69,25): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Roey\Desktop\项目\8.十步万度\十步万度\main.cpp(87,55): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\8.十步万度\十步万度\main.cpp(87,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\8.十步万度\十步万度\main.cpp(87,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\8.十步万度\十步万度\main.cpp(89,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Roey\Desktop\项目\8.十步万度\十步万度\main.cpp(93,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\8.十步万度\十步万度\main.cpp(92,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\8.十步万度\十步万度\main.cpp(91,37): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\8.十步万度\十步万度\main.cpp(91,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  十步万度.vcxproj -> C:\Users\Roey\Desktop\项目\8.十步万度\十步万度\Debug\十步万度.exe

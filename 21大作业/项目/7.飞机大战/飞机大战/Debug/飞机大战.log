@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(43,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(51,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(54,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(54,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(56,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(56,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(82,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(82,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(97,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(98,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(111,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(134,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(145,33): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(151,35): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(152,37): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(194,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(195,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(196,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(197,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\main.cpp(199,52): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  飞机大战.vcxproj -> C:\Users\Roey\Desktop\项目\7.飞机大战\飞机大战\Debug\飞机大战.exe
